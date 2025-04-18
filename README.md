@@ -20,7 +20,7 @@ Dataset: https://www.kaggle.com/datasets/jehanbhathena/weather-dataset
 2. /sandbox/Preprocessing_EDA.ipynb - Initial exporatative data analysis and preprocessing
 3. /sandbox/baseline_logistic_regression.ipynb - Baseline logistic regression model with original dataset and oversampled dataset
 4. /sandbox/kmeans_pca_cnn_stacked.ipynb - K-Means into CNN, PCA into CNN, Stacking Predictions for Ensemble Models
-5. /sandbox/cnn_architecture.ipynb - Oversampling script, data augmentation, initial CNN model, and tuned CNN model with keras hyperband tuner
+5. /cnn_architecture - Oversampling script, data augmentation, initial CNN model, and tuned CNN model with keras hyperband tuner
 6. /sandbox/Resnet50.ipynb - Resnet50 transfer learning with logistic regression and CNN
 7. /sandbox/weather_features.npz - Resnet50 transformed features from image data
 8. /SAM/ - Steps for SAM (Segment Anything Model): EDA, processor, model, train
