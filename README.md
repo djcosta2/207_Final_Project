@@ -27,6 +27,3 @@ Preprocessed data are fed into models such as logistic regression or CNN (Convol
 7. /sandbox/weather_features.npz - Resnet50 transformed features from image data
 8. **/SAM/** - SAM (Segment Anything Model) image segmentation on top of Resnet50 baseline: EDA, processor, model, **train.ipynb**
 9. /207 Final Presentation with Presenter Notes.pdf
-
-
-/Data/Weather_Dataset/ - Downloaded weather image data sorted into directories labled with class names
